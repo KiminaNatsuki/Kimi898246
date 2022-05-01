@@ -2,7 +2,7 @@
 头像
 -->
 <p align="center">
- <img width="150px" src="https://avatars.githubusercontent.com/u/34180607?s=400&u=9faf9772933be53f5f441fdd58360f26f60952bf&v=4" align="center" alt="Avator" />
+ <img width="150px" src="https://cdn.discordapp.com/attachments/589333784307171341/970429371842183249/FLcsYz_VUAEJJ4K.jpg" align="center" alt="Avator" />
  <h2 align="center">
    <a href="https://discords.com/bio/p/b43e069b-5741-4b68-4380-bb63e3928157">
      Kimi

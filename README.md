@@ -1,0 +1,57 @@
+<!--
+头像
+-->
+<p align="center">
+ <img width="150px" src="https://avatars.githubusercontent.com/u/34180607?s=400&u=9faf9772933be53f5f441fdd58360f26f60952bf&v=4" align="center" alt="Avator" />
+ <h2 align="center">
+   <a href="https://discords.com/bio/p/b43e069b-5741-4b68-4380-bb63e3928157">
+     Kimi
+   </a>
+ </h2>
+ <p align="center">
+  可說中文也可說英文，平常都「很閒」的台灣人。
+ </p>
+</p>
+
+<!--
+Github Stats
+-->
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Github Stats
+ </p>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20" align="center" alt="Stats" />
+</p>
+<!--
+Top Langs
+-->
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Top Langs
+ </p>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445" align="center" alt="labgs" />
+</p>
+<!--
+Github Activity
+-->
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Github Activity
+ </p>
+</p>
+
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Kimi898246&theme=xcode" align="center" alt="Github Activity" />
+</p>

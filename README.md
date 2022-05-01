@@ -9,7 +9,7 @@
    </a>
  </h2>
  <p align="center">
-  可說中文也可說英文，平常都「很閒」的台灣人。Taiwanese, can type in both Traditional Chinese and English.
+  可說中文也可說英文，平常都「很閒」的台灣人。
  </p>
  <p align="center">
   Taiwanese, can type in both Traditional Chinese and English.

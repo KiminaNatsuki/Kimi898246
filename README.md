@@ -57,5 +57,5 @@ Github Activity
 </p>
 
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Kimi898246&theme=xcode" align="center" alt="Github Activity" />
+ <img src="https://activity-graph.herokuapp.com/graph?username=Kimi898246&theme=rogue" align="center" alt="Github Activity" />
 </p>

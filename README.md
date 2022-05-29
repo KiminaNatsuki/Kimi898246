@@ -70,5 +70,6 @@ Discord
   Discord Status
  </p>
 </p>
-
-<img align="center" src="https://lanyard.cnrad.dev/api/325290687698567168" alt="Discord Status">
+ <p align="center">
+ <img src="https://lanyard.cnrad.dev/api/325290687698567168" alt="Discord Status">
+</p>

@@ -28,37 +28,18 @@ Github Stats
  </p>
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" align="center" alt="Stats" />
-</p>
-<!--
-Top Langs
--->
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-  Top Languages
- </p>
-</p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" align="center" alt="labgs" />
-</p>
-<!--
-Github Activity
--->
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-  Github Activity
- </p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" align="center" alt="Stats" />
+
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" align="center" alt="labgs" />
 </p>
 
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Kimi898246&theme=rogue" align="center" alt="Github Activity" />
 </p>
+
 
 <!--
 Discord

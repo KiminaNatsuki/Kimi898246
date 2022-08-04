@@ -33,7 +33,7 @@ Github Stats
  <img src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" align="center" alt="Stats" />
 
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula"  align="center alt="labgs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula"  align="center" alt="labgs" />
 </p>
 
 <p align="center">

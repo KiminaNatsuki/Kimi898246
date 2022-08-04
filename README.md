@@ -70,6 +70,6 @@ Discord
   Discord Status
  </p>
 </p>
- <img align="right" src="https://lanyard.cnrad.dev/api/325290687698567168" alt="Discord Status"> <!--kimi-->
- <img align="left" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status"> <!--magi-->
+ <img align="center" src="https://lanyard.cnrad.dev/api/325290687698567168" alt="Discord Status"> <!--kimi-->
+ <img align="center" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status"> <!--magi-->
 </p>

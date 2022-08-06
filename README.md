@@ -7,7 +7,7 @@
 ---
 </p>
   <img align="left" width= "45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimi898246&theme=dracula" alt="Streak" />
-  <img align="right" width= "54%" src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
+  <img align="right" width= "50%" src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
   <img align="center" width= "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" alt="labgs" />
 </p>
 
@@ -19,6 +19,7 @@
 </p>
  <p align="center">
  <img align="left" height="250px" width= "50%" src="https://lanyard.cnrad.dev/api/325290687698567168" alt="Discord Status"> <!--kimi-->
- <img align="right" height="250px" width= "50%" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status"> <!--magi-->
+ <img align="right" height="250px" width= "45%" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status"> <!--magi-->
 </p>
+
 

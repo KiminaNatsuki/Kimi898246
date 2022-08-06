@@ -1,6 +1,6 @@
 <img align="right" width="10%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/hutao/sticker_6.png?6baaddef7714bd996775ff3b50fa7bee&d=200x200">
 
-**Hello There!** I'm Kimi.
+:wave: **Hello There!** I'm Kimi.
 - Taiwanese, can type in both **Traditional Chinese** and **English**.
 - 可說**中文**也可說**英文**，平常都「很閒」的台灣人。
 

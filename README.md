@@ -18,7 +18,7 @@
 
 </p>
  <p align="center">
- <img align="left" height="235px" width= "50%" src="https://lanyard.cnrad.dev/api/325290687698567168" alt="Discord Status"> <!--kimi-->
- <img align="right" height="235px" width= "50%" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status"> <!--magi-->
+ <img align="left" height="225px" width= "45%" src="https://lanyard.cnrad.dev/api/325290687698567168" alt="Discord Status"> <!--kimi-->
+ <img align="right" height="225px" width= "45%" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status"> <!--magi-->
 </p>
 

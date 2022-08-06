@@ -5,9 +5,9 @@
 - 可說**中文**也可說**英文**，平常都「很閒」的台灣人。
 ---
 </p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimi898246&theme=dracula" alt="Streak" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" alt="labgs" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimi898246&theme=dracula" alt="Streak" />
+  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" alt="labgs" />
 </p>
 
 </p>

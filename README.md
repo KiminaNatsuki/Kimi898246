@@ -1,4 +1,4 @@
-<img align="right" width="15%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/hutao/sticker_6.png?6baaddef7714bd996775ff3b50fa7bee&d=200x200">
+<img align="right" width="11%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/hutao/sticker_6.png?6baaddef7714bd996775ff3b50fa7bee&d=200x200">
 
 :wave: **Hello There!** I'm Kimi.
 - Taiwanese, can type in both **Traditional Chinese** and **English**.

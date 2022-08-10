@@ -18,8 +18,8 @@
 
 </p>
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/325290687698567168?idleMessage=Possibly watching Magix doing random things..." alt="Discord Status"> <!--kimi-->
-    <img src="https://lanyard.cnrad.dev/api/252090676068614145?idleMessage=Possibly teasing Kimi for no reason..." alt="Discord Status"> <!--magi-->
+    <img src="https://lanyard.cnrad.dev/api/325290687698567168?idleMessage=Possibly watching Magix doing random things..."> <!--kimi-->
+    <img src="https://lanyard.cnrad.dev/api/252090676068614145?idleMessage=Possibly teasing Kimi for no reason..."> <!--magi-->
 </p>
 
 ---

@@ -13,11 +13,6 @@
 
 </p>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Kimi898246&theme=rogue" align="center" alt="Github Activity" />
-</p>
-
-</p>
-<p align="center">
     <img src="https://lanyard.cnrad.dev/api/325290687698567168?idleMessage=Possibly%20watching%20Magix%20doing%20random%20things..." alt="Discord Status"> <!--kimi-->
     <img src="https://lanyard.cnrad.dev/api/252090676068614145?idleMessage=Possibly%20teasing%20Kimi%20for%20no%20reason~" alt="Discord Status"> <!--magi-->
 </p>

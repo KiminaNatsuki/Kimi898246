@@ -5,6 +5,16 @@
 - 可說**中文**也可說**英文**，平常都「很閒」的台灣人。
 ---
 </p>
+<p align="center">
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Kimi898246&theme=dark&data=repositories,stars,commits">
+</p>
+
+</p>
+<p align="center">
+<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=vscode,c,windows,markdown,json&includeNames=true&theme=dark">
+</p>
+
+</p>
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kimi898246&theme=dracula" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
@@ -16,6 +26,8 @@
     <img src="https://lanyard.cnrad.dev/api/325290687698567168?idleMessage=Possibly%20watching%20Magix%20doing%20random%20things..." alt="Discord Status"> <!--kimi-->
     <img src="https://lanyard.cnrad.dev/api/252090676068614145?idleMessage=Possibly%20teasing%20Kimi%20for%20no%20reason~" alt="Discord Status"> <!--magi-->
 </p>
+
+
 
 ---
 <h6 align="left">love u too magix~</h6>

@@ -6,7 +6,7 @@
 ---
 </p>
 <p align="center">
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Kimi898246&theme=dark&data=repositories,stars,commits">
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=KiminaNatsuki&theme=dark&data=repositories,stars,commits">
 </p>
 
 </p>
@@ -16,9 +16,9 @@
 
 </p>
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kimi898246&theme=dracula" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimi898246&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" alt="labgs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiminaNatsuki&theme=dracula" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KiminaNatsuki&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiminaNatsuki&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" alt="labgs" />
 </p>
 
 </p>

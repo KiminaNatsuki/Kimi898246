@@ -1,4 +1,4 @@
-<img align="right" width="10%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/paimons-paintings-oneplus/sticker_6.png?9a4f34d0edbfb2ee4f9ed0f1cddcc13a">
+<img align="right" width="10%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/paimons-paintings-oneplus/sticker_3.png?9a4f34d0edbfb2ee4f9ed0f1cddcc13a">
 
 :wave: **Hello There!** I'm Kimi.
 - Taiwanese, can type in both **Traditional Chinese** and **English**.

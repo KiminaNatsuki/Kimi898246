@@ -1,5 +1,8 @@
-<img align="right" width="10%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/paimons-paintings-oneplus/sticker_3.png?9a4f34d0edbfb2ee4f9ed0f1cddcc13a">
-
+</p>
+<img align="right" width="10%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_18.png?2c9966a5520fdab6c03fda5ca193f388&d=200x200">
+<img align="right" width="10%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-furina/sticker_4.png?68f63bbc1d6e6364cc00236bdfde6367&d=200x200">
+<p>
+ 
 :wave: **Hello There!** I'm Kimi.
 - Taiwanese, can type in both **Traditional Chinese** and **English**.
 - 可說**中文**也可說**英文**，平常都「很閒」的台灣人。

@@ -3,7 +3,7 @@
 <img align="right" width="10%" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-furina/sticker_4.png?68f63bbc1d6e6364cc00236bdfde6367&d=200x200">
 <p>
  
-:wave: **Hello There!** I'm Kimi.
+:wave: **Hello There!** I'm Kimina.
 - Taiwanese, can type in both **Traditional Chinese** and **English**.
 - 可說**中文**也可說**英文**，平常都「很閒」的台灣人。
 ---
@@ -33,4 +33,3 @@
 
 
 ---
-<h6 align="left">love u too magix~</h6>

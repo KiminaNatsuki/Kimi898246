@@ -26,7 +26,7 @@
 
 </p>
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/325290687698567168?idleMessage=Possibly%20watching%20Magix%20doing%20random%20things..." alt="Discord Status"> <!--kimi-->
+    <img src="https://lanyard.cnrad.dev/api/325290687698567168?idleMessage=Possibly%20doing%20random%20things..." alt="Discord Status"> <!--kimi-->
 </p>
 
 
